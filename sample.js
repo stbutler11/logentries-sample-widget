@@ -7,9 +7,9 @@
 		"description" : "Sample for demo purposes.",
 		"img" : "",
 		"event_listeners" : {
-			"le.update-timeline" : redraw,
-			"dashboard.update-options" : redraw,
-			"dashboard.resize" : redraw
+			"le_update-timeline" : redraw,
+			"dashboard_update-options" : redraw,
+			"dashboard_resize" : redraw
 		},
 		"options_descriptor" : {
 			"title" : { "label" : "Title", "value" : "Custom Text"},
